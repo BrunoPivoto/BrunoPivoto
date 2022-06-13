@@ -3,7 +3,7 @@
  
 ### Sobre mim:
 
-- 💻 Estudante de Engenharia de Computação no Instituto Nacional de Telecomunicações.
+- 💻 Graduado em Engenharia de Computação pelo INATEL - Instituto Nacional de Telecomunicações.
 
 
 <div>
