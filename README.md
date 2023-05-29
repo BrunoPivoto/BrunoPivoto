@@ -14,6 +14,7 @@
   
   ## Skills:
 <p align="center"><br>
+  <img height="60" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img height="60" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
